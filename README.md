@@ -1,9 +1,15 @@
-git clone git@github.com:jossjack/masteruah.git
+# Compañeros de clase:
 
-touch README.md
+___
 
-git init
 
-git add README.md
+| NOMBRE              | GITHUB                          |
+| ------------------- |:-------------------------------:| 
+| Leilane Almeida     | https://github.com/leilane13    | 
+| Andrés F            | https://github.com/andresuah    | 
+| Mauro Perna         | https://github.com/MauroPerna   | 
+| Daniel Molina       | https://github.com/dmolinac     | 
+| Eneko Lakasta       | https://github.com/enekid       | 
+| Darío De La Hoz     | https://github.com/dariohoz     | 
 
-git commit -m "commit inicial"
+
