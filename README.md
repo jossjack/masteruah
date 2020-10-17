@@ -21,6 +21,8 @@ git commit -m "commit inicial"
 | Darío De La Hoz     | https://github.com/dariohoz     | 
 
 
+### Comandos utilizados
+
 git branch v0.2
 git checkout v0.2
 
