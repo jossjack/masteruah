@@ -1,8 +1,5 @@
 # Compañeros de clase:
 
-___
-
-
 | NOMBRE              | GITHUB                          |
 | ------------------- |:-------------------------------:| 
 | Leilane Almeida     | https://github.com/leilane13    | 
