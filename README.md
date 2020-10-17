@@ -23,12 +23,11 @@ git commit -m "commit inicial"
 
 ### Comandos utilizados
 
-git branch v0.2
-git checkout v0.2
-
-touch 2.txt 
-git add -f 2.txt
-git commit -m “agregar el archivo 2.txt”
+* git branch v0.2
+* git checkout v0.2
+* touch 2.txt 
+* git add -f 2.txt
+* git commit -m “agregar el archivo 2.txt”
 
 
 
