@@ -28,6 +28,16 @@ git commit -m "commit inicial"
 * touch 2.txt 
 * git add -f 2.txt
 * git commit -m “agregar el archivo 2.txt”
-
-
-
+* git push -u origin v0.2
+* git checkout main
+* git merge v0.2
+* nano 1.txt
+* echo "Hola" > 1.txt
+* git add -f 1.txt
+* git commit -m "agregar Hola al archivo 1.txt"
+* git checkout v0.2
+* echo "Adios" > 1.txt
+* git add -f 1.txt
+* git commit -m "agregar ADIOS al archivo 1.txt"
+* git checkout main
+* git merge v0.2
